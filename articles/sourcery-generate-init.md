@@ -3,7 +3,7 @@ title: "Sourcery で Swift のイニシャライザを生成する"
 emoji: "😺"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Swift"]
-published: false
+published: true
 ---
 
 Swift で DTO  などを定義するとき以下のようなイニシャライザを定義したいときがあります
