@@ -3,7 +3,7 @@ title: "TipKitがタブバーに表示できない"
 emoji: "🐈"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Swift", "TipKit", "SwiftUI"]
-published: false
+published: true
 ---
 
 ## TipKitはタブバーへの表示ができない
