@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/munakata-hisashi/zenn-content#readme",
   "dependencies": {
-    "zenn-cli": "^0.1.132"
+    "zenn-cli": "^0.1.153"
   }
 }
